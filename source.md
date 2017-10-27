@@ -1,62 +1,47 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 刘子玉 (1700011766@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/alanstyles
 
 ---
 
-## 第一部分
+## 主要内容
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### 1. 个人信息
+
+### 2. 兴趣爱好
+
+### 3. 未来期望
 
 ---
 
-## 插图
+## 个人信息
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+###姓名：刘子玉
+###性别：男
+###年龄：18周岁
+###学院：化学与分子工程学院
+###年级：大一
+###家乡：黑龙江省大庆市
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 兴趣爱好
+###读书、乒乓球
+---
 
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+## 未来期望
+###继续深造，从事化学研究工作
 
 ---
 
 class: center, middle
 
 # 谢谢
+
